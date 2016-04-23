@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
-MAINTAINER Brian Christner
+MAINTAINER DEV3L
 
 # Install base packages
 RUN apt-get update && \

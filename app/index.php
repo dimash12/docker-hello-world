@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Hello Swisscom!</title>
+	<title>Hello DEV3L!</title>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
 	<style>
 	body {
