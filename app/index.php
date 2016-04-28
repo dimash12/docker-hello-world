@@ -18,7 +18,7 @@
 <body>
 	<img id="logo" src="Container_Automation.jpg" />
 	<h1><?php echo "Hello ".($_ENV["NAME"]?$_ENV["NAME"]:"Docker!")."!"; ?></h1>
-	<h2>TEST Automated Build</h2>
+	<h2>TEST Automated Build (2)</h2>
 	<?php if($_ENV["HOSTNAME"]) {?><h3>My hostname is <?php echo $_ENV["HOSTNAME"]; ?></h3><?php } ?>
 	<?php
 	$links = [];
